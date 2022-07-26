@@ -4,6 +4,12 @@ h1 {
     font-size: 60px;
     font-family: Garamond, sans-serif;
 }
+h2 {
+    font-family: Garamond, sans-serif;
+}
+p {
+    font-family: Garamond, sans-serif;
+}
 h3 {
     color: #EB54FF;
     font-family: Garamond, sans-serif;
@@ -11,6 +17,7 @@ h3 {
 }
 nav {
     text-align: center;
+    background-color:#E034AF;
 }
 ul {
     margin: 20px;
@@ -22,3 +29,13 @@ img {
     margin-left: auto;
     margin-right: auto;
 }
+.column {
+    float: left;
+    width: 33%;
+  }
+  /* Used to allow spacing between the project columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
