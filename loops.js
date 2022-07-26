@@ -60,7 +60,7 @@ for (let i = 3; i <=90; i += 3) {
 }
 */
 
-/* Programmer's note. You will have to open the html folder
+/* Programmer's note. You will have to open the index.html folder
 and uncomment which one you need to test, but all of them
 should work as expected. Let me know if there are any errors
 or inconsistencies.
